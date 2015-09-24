@@ -74,27 +74,27 @@ elif int(year) < int(1980) and month == "july":
     print("You are a summer baby of the stone age.")
 elif int(year) < int(1980) and month == "august":
     print("You are a summer baby of the stone age.")
-elif int(1980) <= int(year) < int(1990) and month == "september" or month == "october" or month == "november":
+elif 1980 <= int(year) < 1990 and (month == "september" or month == "october" or month == "november"):
     print("You are a fall baby of the eighties.")
-elif int(1980) <= int(year) < int(1990) and month == "december" or month == "january" or month == "february":
+elif 1980 <= int(year) < 1990 and (month == "december" or month == "january" or month == "february"):
     print("You are a winter baby of the eighties.")
-elif int(1980) <= int(year) < int(1990) and month == "march" or month == "april" or month == "may":
+elif 1980 <= int(year) < 1990 and (month == "march" or month == "april" or month == "may"):
     print("You are a spring baby of the eighties.")
-elif int(1980) <= int(year) < int(1990) and month == "june" or month == "july" or month == "august":
+elif 1980 <= int(year) < 1990 and (month == "june" or month == "july" or month == "august"):
     print("You are a summer baby of the eighties.")
-elif int(1990) <= int(year) < int(2000) and month == "september" or month == "october" or month == "november":
+elif 1990 <= int(year) < 2000 and (month == "september" or month == "october" or month == "november"):
     print("You are a fall baby of the nineties.")
-elif int(1990) <= int(year) < int(2000) and month == "december" or month == "january" or month == "february":
+elif 1990 <= int(year) < 2000 and (month == "december" or month == "january" or month == "february"):
     print("You are a winter baby of the nineties.")
-elif int(1990) <= int(year) < int(2000) and month == "march" or month == "april" or month == "may":
+elif 1990 <= int(year) < 2000 and (month == "march" or month == "april" or month == "may"):
     print("You are a spring baby of the nineties.")
-elif int(1990) <= int(year) < int(2000) and month == "june" or month == "july" or month == "august":
+elif 1990 <= int(year) < 2000 and (month == "june" or month == "july" or month == "august"):
     print("You are a summer baby of the nineties.")
-elif int(2000) <= int(year) and month == "september" or month == "october" or month == "november":
+elif 2000 <= int(year) and (month == "september" or month == "october" or month == "november"):
     print("You are a fall baby of the two thousands.")
-elif int(2000) <= int(year) and month == "december" or month == "january" or month == "february":
+elif 2000 <= int(year) and (month == "december" or month == "january" or month == "february"):
     print("You are a winter baby of two thousands.")
-elif int(2000) <= int(year) and month == "march" or month == "april" or month == "may":
+elif 2000 <= int(year) and (month == "march" or month == "april" or month == "may"):
     print("You are a spring baby of two thousands.")
-elif int(2000) <= int(year) and month == "june" or month == "july" or month == "august":
+elif 2000 <= int(year) and (month == "june" or month == "july" or month == "august"):
     print("You are a summer baby of two thousands.")
