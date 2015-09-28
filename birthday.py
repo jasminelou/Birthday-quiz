@@ -52,50 +52,50 @@ elif month == "october" and day == "31":
     print("You were born on Halloween!")
 else:
     if int(year) < int(1980) and month == "september":
-        print("You are a fall baby of the stone age.")
+        print("name" + ", " + "You are a fall baby of the stone age.")
     if int(year) < int(1980) and month == "october":
-        print("You are a fall baby of the stone age.")
+        print("name" + ", " + "You are a fall baby of the stone age.")
     if int(year) < int(1980) and month == "november":
-        print("You are a fall baby of the stone age.")
+        print("name" + ", " + "You are a fall baby of the stone age.")
     if int(year) < int(1980) and month == "december":
-        print("You are a winter baby of the stone age.")
+        print("name" + ", " + "You are a winter baby of the stone age.")
     if int(year) < int(1980) and month == "january":
-        print("You are a winter baby of the stone age.")
+        print("name" + ", " + "You are a winter baby of the stone age.")
     if int(year) < int(1980) and month == "february":
-        print("You are a winter baby of the stone age.")
+        print("name" + ", " + "You are a winter baby of the stone age.")
     if int(year) < int(1980) and month == "march":
-        print("You are a spring baby of the stone age.")
+        print("name" + ", " + "You are a spring baby of the stone age.")
     if int(year) < int(1980) and month == "april":
-        print("You are a spring baby of the stone age.")
+        print("name" + ", " + "You are a spring baby of the stone age.")
     if int(year) < int(1980) and month == "may":
-        print("You are a spring baby of the stone age.")
+        print("name" + ", " + "You are a spring baby of the stone age.")
     if int(year) < int(1980) and month == "june":
-        print("You are a summer baby of the stone age.")
+        print("name" + ", " + "You are a summer baby of the stone age.")
     if int(year) < int(1980) and month == "july":
-        print("You are a summer baby of the stone age.")
+        print("name" + ", " + "You are a summer baby of the stone age.")
     if int(year) < int(1980) and month == "august":
-        print("You are a summer baby of the stone age.")
+        print("name" + ", " + "You are a summer baby of the stone age.")
     if 1980 <= int(year) < 1990 and (month == "september" or month == "october" or month == "november"):
-        print("You are a fall baby of the eighties.")
+        print("name" + ", " + "You are a fall baby of the eighties.")
     if 1980 <= int(year) < 1990 and (month == "december" or month == "january" or month == "february"):
-        print("You are a winter baby of the eighties.")
+        print("name" + ", " + "You are a winter baby of the eighties.")
     if 1980 <= int(year) < 1990 and (month == "march" or month == "april" or month == "may"):
-        print("You are a spring baby of the eighties.")
+        print("name" + ", " + "You are a spring baby of the eighties.")
     if 1980 <= int(year) < 1990 and (month == "june" or month == "july" or month == "august"):
-        print("You are a summer baby of the eighties.")
+        print("name" + ", " + "You are a summer baby of the eighties.")
     if 1990 <= int(year) < 2000 and (month == "september" or month == "october" or month == "november"):
-        print("You are a fall baby of the nineties.")
+        print("name" + ", " + "You are a fall baby of the nineties.")
     if 1990 <= int(year) < 2000 and (month == "december" or month == "january" or month == "february"):
-        print("You are a winter baby of the nineties.")
+        print("name" + ", " + "You are a winter baby of the nineties.")
     if 1990 <= int(year) < 2000 and (month == "march" or month == "april" or month == "may"):
-        print("You are a spring baby of the nineties.")
+        print("name" + ", " + "You are a spring baby of the nineties.")
     if 1990 <= int(year) < 2000 and (month == "june" or month == "july" or month == "august"):
-        print("You are a summer baby of the nineties.")
+        print("name" + ", " + "You are a summer baby of the nineties.")
     if 2000 <= int(year) and (month == "september" or month == "october" or month == "november"):
-        print("You are a fall baby of the two thousands.")
+        print("name" + ", " + "You are a fall baby of the two thousands.")
     if 2000 <= int(year) and (month == "december" or month == "january" or month == "february"):
-        print("You are a winter baby of two thousands.")
+        print("name" + ", " + "You are a winter baby of two thousands.")
     if 2000 <= int(year) and (month == "march" or month == "april" or month == "may"):
-        print("You are a spring baby of two thousands.")
+        print("name" + ", " + "You are a spring baby of two thousands.")
     if 2000 <= int(year) and (month == "june" or month == "july" or month == "august"):
-        print("You are a summer baby of two thousands.")
+        print("name" + ", " + "You are a summer baby of two thousands.")
